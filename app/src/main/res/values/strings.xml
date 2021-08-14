@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Applier</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="register">REGISTER</string>
+    <string name="name">Your name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="salom">Salom</string>
+</resources>

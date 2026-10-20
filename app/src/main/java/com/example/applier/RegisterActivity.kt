@@ -73,7 +73,7 @@ class RegisterActivity : AppCompatActivity() {
             .putString("login",user.login)
             .putString("password",user.password)
             .putString("name",user.name)
-            apply {  }
+            .apply()
     }
 
 
